@@ -1,0 +1,22 @@
+{
+  "name": "SGPod",
+  "version": "0.1.0",
+  "summary": "A short description of SGPod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/jeet kumar/SGPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "jeet kumar": "ios.jeet@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/jeet kumar/SGPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SGPod/Classes/**/*"
+}

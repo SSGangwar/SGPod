@@ -1,0 +1,6 @@
+framework module SGPod {
+  umbrella header "SGPod-umbrella.h"
+
+  export *
+  module * { export * }
+}
