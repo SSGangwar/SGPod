@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'SGPod'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of SGPod.'
+  s.summary          = 'It is a Testing version summary for app.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+TODO: SSPod description of the pod here and it is only for testing.
                        DESC
 
   s.homepage         = 'https://github.com/SSGangwar/SGPod'
@@ -31,7 +31,8 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'SGPod/Classes/**/*'
-  
+  s.pod_target_xcconfig = { 'SWIFT_VERSION' => '3.0' }
+
   # s.resource_bundles = {
   #   'SGPod' => ['SGPod/Assets/*.png']
   # }
