@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SGPod'
-  s.version          = '0.1.0'
+  s.version          = '0.2.0'
   s.summary          = 'It is a Testing version summary for app.'
 
 # This description is used to generate tags and improve search results.
